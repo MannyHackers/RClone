@@ -108,3 +108,4 @@ License
 
 This is free software under the terms of MIT the license (check the
 [COPYING file](/COPYING) included in this package).
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MannyHackers&layout=compact)](https://github.com/MannyHackers/RClone)
